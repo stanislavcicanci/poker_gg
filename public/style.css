@@ -606,8 +606,8 @@ video {
   left: 139px;
 }
 
-.left-\[143px\] {
-  left: 143px;
+.left-\[153px\] {
+  left: 153px;
 }
 
 .left-\[16\.5px\] {
@@ -726,6 +726,10 @@ video {
   left: 7px;
 }
 
+.left-\[90px\] {
+  left: 90px;
+}
+
 .right-0 {
   right: 0px;
 }
@@ -762,8 +766,8 @@ video {
   right: 29px;
 }
 
-.right-\[3\.33\] {
-  right: 3.33;
+.right-\[3\.33px\] {
+  right: 3.33px;
 }
 
 .right-\[4\.8px\] {
@@ -904,6 +908,10 @@ video {
 
 .top-\[30px\] {
   top: 30px;
+}
+
+.top-\[314px\] {
+  top: 314px;
 }
 
 .top-\[319px\] {
@@ -1303,6 +1311,10 @@ video {
   font-size: 31.4px;
 }
 
+.text-\[40px\] {
+  font-size: 40px;
+}
+
 .text-\[50px\] {
   font-size: 50px;
 }
@@ -1393,6 +1405,25 @@ button {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   text-shadow: 0px -1px 184px #26A7C1;
+}
+
+.textul h1 {
+  font-family: 'Ethnocentric Rg', sans-serif;
+  color: white;
+  text-shadow: 
+        0px 0px 5px #C126B1, 
+        0px 0px 10px #C126B1, 
+        0px 0px 15px #C126B1, 
+        0px 0px 20px #C126B1, 
+        0px 0px 50px #C126B1, 
+        0px 0px 55px #C126B1, 
+        0px 0px 60px #C126B1, 
+        0px 0px 70px rgba(0,0,0,0.5);
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: #AA16F0;
+}
+
+.textul{
 }
 
 .logo{

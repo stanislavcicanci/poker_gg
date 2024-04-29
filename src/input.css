@@ -46,6 +46,30 @@ button {
     text-shadow: 0px -1px 184px #26A7C1;
 }
 
+.textul h1 {
+    font-family: 'Ethnocentric Rg', sans-serif;
+    color: white;
+    text-shadow: 
+        0px 0px 5px #C126B1, 
+        0px 0px 10px #C126B1, 
+        0px 0px 15px #C126B1, 
+        0px 0px 20px #C126B1, 
+        0px 0px 50px #C126B1, 
+        0px 0px 55px #C126B1, 
+        0px 0px 60px #C126B1, 
+        0px 0px 70px rgba(0,0,0,0.5); 
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: #AA16F0;
+}
+
+
+
+
+.textul{
+    
+}
+
+
 .logo{
     text-shadow: 0px -1px 184px #26A7C1;
 }
