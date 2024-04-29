@@ -590,6 +590,10 @@ video {
   left: 38px;
 }
 
+.left-\[453px\] {
+  left: 453px;
+}
+
 .left-\[541px\] {
   left: 541px;
 }
@@ -608,6 +612,10 @@ video {
 
 .right-\[0\.64px\] {
   right: 0.64px;
+}
+
+.right-\[11\.4px\] {
+  right: 11.4px;
 }
 
 .right-\[16px\] {
@@ -714,14 +722,6 @@ video {
   top: 996px;
 }
 
-.left-\[453px\] {
-  left: 453px;
-}
-
-.right-\[11\.4px\] {
-  right: 11.4px;
-}
-
 .flex {
   display: flex;
 }
@@ -788,4 +788,9 @@ button {
   width: auto;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  text-shadow: 0px -1px 184px #26A7C1;
+}
+
+.logo{
+  text-shadow: 0px -1px 184px #26A7C1;
 }
