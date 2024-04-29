@@ -562,6 +562,10 @@ video {
   position: relative;
 }
 
+.left-0 {
+  left: 0px;
+}
+
 .left-\[106px\] {
   left: 106px;
 }
@@ -572,6 +576,10 @@ video {
 
 .left-\[21px\] {
   left: 21px;
+}
+
+.left-\[224px\] {
+  left: 224px;
 }
 
 .left-\[36px\] {
@@ -598,16 +606,72 @@ video {
   left: 86px;
 }
 
+.right-\[0\.64px\] {
+  right: 0.64px;
+}
+
+.right-\[16px\] {
+  right: 16px;
+}
+
+.right-\[210px\] {
+  right: 210px;
+}
+
+.right-\[46px\] {
+  right: 46px;
+}
+
+.right-\[47px\] {
+  right: 47px;
+}
+
+.right-\[68px\] {
+  right: 68px;
+}
+
+.right-\[70\.7px\] {
+  right: 70.7px;
+}
+
+.right-\[71px\] {
+  right: 71px;
+}
+
+.top-0 {
+  top: 0px;
+}
+
+.top-\[1033px\] {
+  top: 1033px;
+}
+
 .top-\[1142px\] {
   top: 1142px;
+}
+
+.top-\[1152px\] {
+  top: 1152px;
 }
 
 .top-\[1173px\] {
   top: 1173px;
 }
 
+.top-\[191px\] {
+  top: 191px;
+}
+
 .top-\[260px\] {
   top: 260px;
+}
+
+.top-\[285px\] {
+  top: 285px;
+}
+
+.top-\[402px\] {
+  top: 402px;
 }
 
 .top-\[441px\] {
@@ -626,39 +690,102 @@ video {
   top: 6.5px;
 }
 
+.top-\[661px\] {
+  top: 661px;
+}
+
 .top-\[70px\] {
   top: 70px;
+}
+
+.top-\[75px\] {
+  top: 75px;
+}
+
+.top-\[767px\] {
+  top: 767px;
 }
 
 .top-\[816px\] {
   top: 816px;
 }
 
-.top-\[192px\] {
-  top: 192px;
+.top-\[996px\] {
+  top: 996px;
 }
 
-.left-\[\] {
-  left: ;
+.left-\[453px\] {
+  left: 453px;
 }
 
-.top-\[191px\] {
-  top: 191px;
+.right-\[11\.4px\] {
+  right: 11.4px;
 }
 
-.right-\[\] {
-  right: ;
+.flex {
+  display: flex;
 }
 
-.right-\[0\.\] {
-  right: 0.;
+.h-\[100vw\] {
+  height: 100vw;
 }
 
-.right-\[0\.64px\] {
-  right: 0.64px;
+.flex-col {
+  flex-direction: column;
+}
+
+.gap-\[1461px\] {
+  gap: 1461px;
 }
 
 .bg-\[\#07011D\] {
   --tw-bg-opacity: 1;
   background-color: rgb(7 1 29 / var(--tw-bg-opacity));
+}
+
+.text-\[130px\] {
+  font-size: 130px;
+}
+
+.font-normal {
+  font-weight: 400;
+}
+
+.text-teal-600 {
+  --tw-text-opacity: 1;
+  color: rgb(13 148 136 / var(--tw-text-opacity));
+}
+
+@font-face{
+  font-family: myFont1;
+
+  src:url("../fonts/ethnocentric\ .ttf");
+}
+
+button {
+  color: white;
+  width: 361px;
+  height: 98px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: myFont1;
+  font-size: 80px;
+  text-transform: uppercase;
+  background: 
+    linear-gradient(90deg, #FF4FA2 0%, #6B26D0 100%) padding-box,
+    linear-gradient(90deg, #6B26D0, #FF4FA2) border-box;
+  border: 15px solid transparent;
+  border-radius: 21px;
+  box-shadow: 0px -1px 51.4px 5px #FF57A3;
+}
+
+.logo h1{
+  font-family: myFont1;
+  background: linear-gradient(0deg, #238C95 21.15%, #FFF 51.23%, #3BEBFB 77.56%);
+  background-clip: text;
+  width: auto;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
