@@ -2,6 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 @import url('https://fonts.cdnfonts.com/css/ethnocentric');
+
+@import url('https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap');
+
 @font-face{
     font-family: myFont1;
     src:url("../fonts/ethnocentric\ .ttf");
@@ -9,14 +12,12 @@
 
 button {
     color: white;
-    width: 361px;
-    height: 98px;
+    cursor: pointer;
     text-align: center;
     display: flex;
     align-items: center;
     justify-content: center;
     font-family: 'Ethnocentric Rg', sans-serif;
-    font-size: 80px;
     text-transform: uppercase;
     background: 
     linear-gradient(90deg, #FF4FA2 0%, #6B26D0 100%) padding-box,
@@ -24,6 +25,7 @@ button {
     border: 15px solid transparent;
     border-radius: 21px;
     box-shadow: 0px -1px 51.4px 5px #FF57A3;
+    z-index: 999;
 }
 
 
@@ -39,4 +41,9 @@ button {
 
 .logo{
     text-shadow: 0px -1px 184px #26A7C1;
+}
+
+h1, h2, h3, h4{
+    font-family: "Tektur", sans-serif;
+    font-style: normal;
 }
