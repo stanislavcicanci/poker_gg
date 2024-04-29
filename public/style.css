@@ -746,6 +746,230 @@ video {
   top: 996px;
 }
 
+.left-\[375px\] {
+  left: 375px;
+}
+
+.top-\[676px\] {
+  top: 676px;
+}
+
+.top-\[326px\] {
+  top: 326px;
+}
+
+.left-\[51px\] {
+  left: 51px;
+}
+
+.top-\[585px\] {
+  top: 585px;
+}
+
+.left-\[215px\] {
+  left: 215px;
+}
+
+.top-\[147px\] {
+  top: 147px;
+}
+
+.left-\[614px\] {
+  left: 614px;
+}
+
+.top-\[162px\] {
+  top: 162px;
+}
+
+.bottom-\[162px\] {
+  bottom: 162px;
+}
+
+.left-\[82px\] {
+  left: 82px;
+}
+
+.right-\[82px\] {
+  right: 82px;
+}
+
+.bottom-\[528px\] {
+  bottom: 528px;
+}
+
+.top-\[528px\] {
+  top: 528px;
+}
+
+.right-\[0px\] {
+  right: 0px;
+}
+
+.top-\[0px\] {
+  top: 0px;
+}
+
+.top-\[px\] {
+  top: px;
+}
+
+.top-\[205px\] {
+  top: 205px;
+}
+
+.top-\[305px\] {
+  top: 305px;
+}
+
+.right-\[279px\] {
+  right: 279px;
+}
+
+.left-\[279px\] {
+  left: 279px;
+}
+
+.right-\[90px\] {
+  right: 90px;
+}
+
+.top-\[450px\] {
+  top: 450px;
+}
+
+.top-\[177px\] {
+  top: 177px;
+}
+
+.top-\[377px\] {
+  top: 377px;
+}
+
+.right-\[211px\] {
+  right: 211px;
+}
+
+.top-\[\] {
+  top: ;
+}
+
+.top-\[420px\] {
+  top: 420px;
+}
+
+.left-\[445px\] {
+  left: 445px;
+}
+
+.left-\[450px\] {
+  left: 450px;
+}
+
+.left-\[460px\] {
+  left: 460px;
+}
+
+.left-\[470px\] {
+  left: 470px;
+}
+
+.left-\[480px\] {
+  left: 480px;
+}
+
+.left-\[0px\] {
+  left: 0px;
+}
+
+.left-\[500px\] {
+  left: 500px;
+}
+
+.left-\[12px\] {
+  left: 12px;
+}
+
+.top-\[77px\] {
+  top: 77px;
+}
+
+.left-\[\] {
+  left: ;
+}
+
+.left-\[32px\] {
+  left: 32px;
+}
+
+.top-\[32px\] {
+  top: 32px;
+}
+
+.left-\[77px\] {
+  left: 77px;
+}
+
+.top-\[131px\] {
+  top: 131px;
+}
+
+.left-\[20px\] {
+  left: 20px;
+}
+
+.top-\[164\.5px\] {
+  top: 164.5px;
+}
+
+.left-\[37\/5\] {
+  left: 37/5;
+}
+
+.top-\[175px\] {
+  top: 175px;
+}
+
+.left-\[7px\] {
+  left: 7px;
+}
+
+.left-\[37\.5\] {
+  left: 37.5;
+}
+
+.left-\[37\.5px\] {
+  left: 37.5px;
+}
+
+.top-\[244px\] {
+  top: 244px;
+}
+
+.top-\[19\.\] {
+  top: 19.;
+}
+
+.top-\[19\.26\] {
+  top: 19.26;
+}
+
+.top-\[19\.23px\] {
+  top: 19.23px;
+}
+
+.left-\[47\.34\] {
+  left: 47.34;
+}
+
+.left-\[47\.34px\] {
+  left: 47.34px;
+}
+
+.z-\[999\] {
+  z-index: 999;
+}
+
 .mb-\[145px\] {
   margin-bottom: 145px;
 }
@@ -774,6 +998,22 @@ video {
   margin-top: 55px;
 }
 
+.mt-\[100px\] {
+  margin-top: 100px;
+}
+
+.ml-\[264px\] {
+  margin-left: 264px;
+}
+
+.mb-\[162px\] {
+  margin-bottom: 162px;
+}
+
+.block {
+  display: block;
+}
+
 .flex {
   display: flex;
 }
@@ -798,6 +1038,38 @@ video {
   height: 98px;
 }
 
+.h-\[1066px\] {
+  height: 1066px;
+}
+
+.h-\[\] {
+  height: ;
+}
+
+.h-\[474\.03px\] {
+  height: 474.03px;
+}
+
+.h-\[937px\] {
+  height: 937px;
+}
+
+.h-\[184px\] {
+  height: 184px;
+}
+
+.h-\[65px\] {
+  height: 65px;
+}
+
+.h-\[100\%\] {
+  height: 100%;
+}
+
+.h-\[70px\] {
+  height: 70px;
+}
+
 .w-\[303px\] {
   width: 303px;
 }
@@ -814,12 +1086,48 @@ video {
   width: 98vw;
 }
 
+.w-\[\] {
+  width: ;
+}
+
+.w-\[447px\] {
+  width: 447px;
+}
+
+.w-\[56px\] {
+  width: 56px;
+}
+
+.w-\[65px\] {
+  width: 65px;
+}
+
+.w-\[56\.02\] {
+  width: 56.02;
+}
+
+.w-\[56\.02px\] {
+  width: 56.02px;
+}
+
+.w-\[100\%\] {
+  width: 100%;
+}
+
+.w-\[px\] {
+  width: px;
+}
+
 .cursor-pointer {
   cursor: pointer;
 }
 
 .flex-col {
   flex-direction: column;
+}
+
+.items-start {
+  align-items: flex-start;
 }
 
 .items-center {
@@ -842,13 +1150,29 @@ video {
   gap: 70.5px;
 }
 
+.gap-\[117\.28px\] {
+  gap: 117.28px;
+}
+
+.gap-\[20px\] {
+  gap: 20px;
+}
+
 .bg-\[\#07011D\] {
   --tw-bg-opacity: 1;
   background-color: rgb(7 1 29 / var(--tw-bg-opacity));
 }
 
+.bg-\[url\] {
+  background-color: url;
+}
+
 .bg-\[url\(\'\.\/images\/bg_sec2\.svg\'\)\] {
   background-image: url('./images/bg_sec2.svg');
+}
+
+.bg-\[url\(\'\.\/images\/bg_sec4\.svg\'\)\] {
+  background-image: url('./images/bg_sec4.svg');
 }
 
 .bg-cover {
@@ -861,6 +1185,10 @@ video {
 
 .pt-\[86px\] {
   padding-top: 86px;
+}
+
+.pl-\[264px\] {
+  padding-left: 264px;
 }
 
 .text-center {
@@ -885,6 +1213,26 @@ video {
 
 .text-\[80px\] {
   font-size: 80px;
+}
+
+.text-\[65\.16px\] {
+  font-size: 65.16px;
+}
+
+.text-\[64px\] {
+  font-size: 64px;
+}
+
+.text-\[60px\] {
+  font-size: 60px;
+}
+
+.text-\[55px\] {
+  font-size: 55px;
+}
+
+.text-\[50px\] {
+  font-size: 50px;
 }
 
 .font-bold {
@@ -973,6 +1321,10 @@ h1, h2, h3, h4{
 
   .lg\:block {
     display: block;
+  }
+
+  .lg\:hidden {
+    display: none;
   }
 
   .lg\:h-\[150px\] {
