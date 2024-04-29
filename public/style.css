@@ -770,7 +770,7 @@ button {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-family: myFont1;
+  font-family: 'Ethnocentric Rg', sans-serif;
   font-size: 80px;
   text-transform: uppercase;
   background: 
@@ -782,7 +782,7 @@ button {
 }
 
 .logo h1{
-  font-family: myFont1;
+  font-family: 'Ethnocentric Rg', sans-serif;
   background: linear-gradient(0deg, #238C95 21.15%, #FFF 51.23%, #3BEBFB 77.56%);
   background-clip: text;
   width: auto;
